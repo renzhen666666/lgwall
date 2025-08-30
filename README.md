@@ -1,2 +1,2 @@
 # lgwall
-学校校园墙
+issue页
